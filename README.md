@@ -1,6 +1,6 @@
 ## 다이어그램
 
-![AWS High Availability Architecture](./Architecture diagram.png)
+![AWS High Availability Architecture](./"Architecture diagram.png")
 
 <details>
   <summary>국문버전</summary>
